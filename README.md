@@ -1,10 +1,7 @@
-## Hi there 👋
-
-<!-- Hi there, I'm Anselem300! 👋 -->
-
+<!-- Hi there, I'm Anselem300! 👋 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/Anselem300?v=4" width="120" alt="Anselem300's avatar" style="border-radius:50%;"/>
-</p>
+</p>  (for image) -->
 
 <h1 align="center">Hi 👋, I'm Anselem Samuel</h1>
 
