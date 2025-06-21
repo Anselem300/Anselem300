@@ -13,10 +13,18 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m passionate about building real solutions that drive business success.
-- 🌱 Constantly exploring the tech world and learning new skills.
-- 💡 I love transforming ideas into working software.
+- 🔭 I’m a passionate Software Developer focused on crafting real-world, high-impact solutions that drive meaningful results for users and businesses alike. Whether it’s enhancing user interfaces or optimizing back-end systems, I build with purpose and precision.
+- 💡 As a Full Stack Developer, I excel at bringing ideas to life—from brainstorming concepts to deploying fully functional applications. I enjoy bridging the gap between design and technology, delivering responsive, accessible, and user-friendly digital experiences.
+- 🌱 Currently on a journey of continuous growth, I actively explore new technologies, frameworks, and best practices to stay ahead in the ever-evolving tech landscape. I believe that learning is a lifelong adventure and every project is a chance to improve.
+- 💻 My core strengths include:
 
+🧠 Front-End Development: HTML, CSS, JavaScript, React, Accessibility (a11y), UI/UX best practices
+
+🛠️ Back-End & Full Stack: Node.js, Express, MongoDB, REST APIs
+
+⚙️ Tools & DevOps: Git, GitHub, VS Code
+
+🌍 I'm passionate about using technology to solve real problems and excited to contribute to open-source, collaborative projects, and impactful software.
 ---
 
 ### 🛠️ Tech Stack
